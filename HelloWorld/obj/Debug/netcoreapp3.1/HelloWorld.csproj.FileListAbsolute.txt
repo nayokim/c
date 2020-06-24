@@ -1,0 +1,12 @@
+/Users/nayoungkim/Desktop/c#/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/nayoungkim/Desktop/c#/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/nayoungkim/Desktop/c#/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/nayoungkim/Desktop/c#/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/nayoungkim/Desktop/c#/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/nayoungkim/Desktop/c#/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/nayoungkim/Desktop/c#/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/nayoungkim/Desktop/c#/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/nayoungkim/Desktop/c#/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nayoungkim/Desktop/c#/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/nayoungkim/Desktop/c#/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/nayoungkim/Desktop/c#/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
