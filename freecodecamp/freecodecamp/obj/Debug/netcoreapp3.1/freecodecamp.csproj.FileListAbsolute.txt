@@ -1,0 +1,12 @@
+/Users/nayoungkim/Desktop/c#/freecodecamp/freecodecamp/bin/Debug/netcoreapp3.1/freecodecamp.deps.json
+/Users/nayoungkim/Desktop/c#/freecodecamp/freecodecamp/bin/Debug/netcoreapp3.1/freecodecamp.runtimeconfig.json
+/Users/nayoungkim/Desktop/c#/freecodecamp/freecodecamp/bin/Debug/netcoreapp3.1/freecodecamp.runtimeconfig.dev.json
+/Users/nayoungkim/Desktop/c#/freecodecamp/freecodecamp/bin/Debug/netcoreapp3.1/freecodecamp.dll
+/Users/nayoungkim/Desktop/c#/freecodecamp/freecodecamp/bin/Debug/netcoreapp3.1/freecodecamp.pdb
+/Users/nayoungkim/Desktop/c#/freecodecamp/freecodecamp/obj/Debug/netcoreapp3.1/freecodecamp.csprojAssemblyReference.cache
+/Users/nayoungkim/Desktop/c#/freecodecamp/freecodecamp/obj/Debug/netcoreapp3.1/freecodecamp.AssemblyInfoInputs.cache
+/Users/nayoungkim/Desktop/c#/freecodecamp/freecodecamp/obj/Debug/netcoreapp3.1/freecodecamp.AssemblyInfo.cs
+/Users/nayoungkim/Desktop/c#/freecodecamp/freecodecamp/obj/Debug/netcoreapp3.1/freecodecamp.csproj.CoreCompileInputs.cache
+/Users/nayoungkim/Desktop/c#/freecodecamp/freecodecamp/obj/Debug/netcoreapp3.1/freecodecamp.dll
+/Users/nayoungkim/Desktop/c#/freecodecamp/freecodecamp/obj/Debug/netcoreapp3.1/freecodecamp.pdb
+/Users/nayoungkim/Desktop/c#/freecodecamp/freecodecamp/obj/Debug/netcoreapp3.1/freecodecamp.genruntimeconfig.cache
